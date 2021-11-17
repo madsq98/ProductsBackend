@@ -1,0 +1,17 @@
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\bin\Debug\net5.0\ProductsBackend.EntityCore.deps.json
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\bin\Debug\net5.0\ProductsBackend.EntityCore.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\bin\Debug\net5.0\ref\ProductsBackend.EntityCore.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\bin\Debug\net5.0\ProductsBackend.EntityCore.pdb
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\bin\Debug\net5.0\ProductsBackend.Core.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\bin\Debug\net5.0\ProductsBackend.Domain.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\bin\Debug\net5.0\ProductsBackend.Domain.pdb
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\bin\Debug\net5.0\ProductsBackend.Core.pdb
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\obj\Debug\net5.0\ProductsBackend.EntityCore.csproj.AssemblyReference.cache
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\obj\Debug\net5.0\ProductsBackend.EntityCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\obj\Debug\net5.0\ProductsBackend.EntityCore.AssemblyInfoInputs.cache
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\obj\Debug\net5.0\ProductsBackend.EntityCore.AssemblyInfo.cs
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\obj\Debug\net5.0\ProductsBackend.EntityCore.csproj.CoreCompileInputs.cache
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\obj\Debug\net5.0\ProductsBackend.EntityCore.csproj.CopyComplete
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\obj\Debug\net5.0\ProductsBackend.EntityCore.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\obj\Debug\net5.0\ref\ProductsBackend.EntityCore.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.EntityCore\obj\Debug\net5.0\ProductsBackend.EntityCore.pdb

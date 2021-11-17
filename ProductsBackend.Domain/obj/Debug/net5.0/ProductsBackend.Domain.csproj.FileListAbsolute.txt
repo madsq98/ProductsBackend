@@ -1,0 +1,15 @@
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\bin\Debug\net5.0\ProductsBackend.Domain.deps.json
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\bin\Debug\net5.0\ProductsBackend.Domain.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\bin\Debug\net5.0\ref\ProductsBackend.Domain.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\bin\Debug\net5.0\ProductsBackend.Domain.pdb
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\bin\Debug\net5.0\ProductsBackend.Core.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\bin\Debug\net5.0\ProductsBackend.Core.pdb
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\obj\Debug\net5.0\ProductsBackend.Domain.csproj.AssemblyReference.cache
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\obj\Debug\net5.0\ProductsBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\obj\Debug\net5.0\ProductsBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\obj\Debug\net5.0\ProductsBackend.Domain.AssemblyInfo.cs
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\obj\Debug\net5.0\ProductsBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\obj\Debug\net5.0\ProductsBackend.Domain.csproj.CopyComplete
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\obj\Debug\net5.0\ProductsBackend.Domain.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\obj\Debug\net5.0\ref\ProductsBackend.Domain.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Domain\obj\Debug\net5.0\ProductsBackend.Domain.pdb

@@ -1,0 +1,12 @@
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Core\bin\Debug\net5.0\ProductsBackend.Core.deps.json
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Core\bin\Debug\net5.0\ProductsBackend.Core.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Core\bin\Debug\net5.0\ref\ProductsBackend.Core.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Core\bin\Debug\net5.0\ProductsBackend.Core.pdb
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Core\obj\Debug\net5.0\ProductsBackend.Core.csproj.AssemblyReference.cache
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Core\obj\Debug\net5.0\ProductsBackend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Core\obj\Debug\net5.0\ProductsBackend.Core.AssemblyInfoInputs.cache
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Core\obj\Debug\net5.0\ProductsBackend.Core.AssemblyInfo.cs
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Core\obj\Debug\net5.0\ProductsBackend.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Core\obj\Debug\net5.0\ProductsBackend.Core.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Core\obj\Debug\net5.0\ref\ProductsBackend.Core.dll
+C:\Users\Mads Qvistgaard\Documents\GitHub\ProductsBackend\ProductsBackend.Core\obj\Debug\net5.0\ProductsBackend.Core.pdb
