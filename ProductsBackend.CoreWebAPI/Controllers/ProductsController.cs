@@ -65,5 +65,12 @@ namespace ProductsBackend.CoreWebAPI.Controllers
             Product result = _service.UpdateProduct(id, new Product { Id = productIn.Id, Name = productIn.Name });
             return Ok(new ProductOut {Id = result.Id, Name = result.Name});
         }
+
+        [HttpDelete("{id}")]
+        public ActionResult<ProductOut> Delete(int id)
+        {
+            Product result = _service.DeleteProduct(_service.GetOneProduct(id));
+            return Ok(new ProductOut {Id = result.Id});
+        }
     }
 }

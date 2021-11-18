@@ -54,6 +54,16 @@ namespace ProductsBackend.EntityCore.Repositories
             return obj;
         }
 
+        public Product Delete(Product obj)
+        {
+            ProductEntity entity = new ProductEntity {Id = obj.Id};
+
+            _ctx.Products.Remove(entity);
+            _ctx.SaveChanges();
+
+            return obj;
+        }
+
         //Helper methods
         private IQueryable<Product> ConvertProducts()
         {

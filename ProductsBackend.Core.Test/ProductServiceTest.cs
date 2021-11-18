@@ -75,5 +75,20 @@ namespace ProductsBackend.Core.Test
 
             Assert.NotNull(service.UpdateProduct(id, product));
         }
+
+        [Fact]
+        public void ProductService_Delete_ReturnsProduct()
+        {
+            int id = 1;
+            Product product = new Product {Id = id};
+
+            var repoMock = new Mock<IRepository<Product>>();
+            repoMock.Setup(s => s.Delete(product))
+                .Returns(product);
+
+            var service = new ProductsService(repoMock.Object);
+
+            Assert.NotNull(service.DeleteProduct(product));
+        }
     }
 }

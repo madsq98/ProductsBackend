@@ -10,5 +10,6 @@ namespace ProductsBackend.Core.IServices
         public Product AddProduct(Product product);
         public Product GetOneProduct(int productId);
         public Product UpdateProduct(int productId, Product returnProduct);
+        public Product DeleteProduct(Product returnProduct);
     }
 }

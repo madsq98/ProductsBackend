@@ -50,5 +50,18 @@ namespace ProductsBackend.Core.Test
 
             Assert.Equal(returnProduct, serviceMock.Object.UpdateProduct(productId, returnProduct));
         }
+
+        [Fact]
+        public void DeleteProduct_ReturnProduct()
+        {
+            int productId = 1;
+            Product returnProduct = new Product {Id = productId, Name = "test"};
+
+            var serviceMock = new Mock<IProductsService>();
+            serviceMock.Setup(s => s.DeleteProduct(returnProduct))
+                .Returns(returnProduct);
+
+            Assert.Equal(returnProduct, serviceMock.Object.DeleteProduct(returnProduct));
+        }
     }
 }

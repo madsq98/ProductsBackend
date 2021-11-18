@@ -5,19 +5,17 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.12" />
         <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.11" />
         <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Controllers" />
-    </ItemGroup>
-
-    <ItemGroup>
       <ProjectReference Include="..\ProductsBackend.Core\ProductsBackend.Core.csproj" />
       <ProjectReference Include="..\ProductsBackend.Domain\ProductsBackend.Domain.csproj" />
       <ProjectReference Include="..\ProductsBackend.EntityCore\ProductsBackend.EntityCore.csproj" />
+      <ProjectReference Include="..\ProductsBackend.Security\ProductsBackend.Security.csproj" />
     </ItemGroup>
 
 </Project>

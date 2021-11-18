@@ -33,5 +33,10 @@ namespace ProductsBackend.Domain.Services
         {
             return _repo.Update(productId, returnProduct);
         }
+
+        public Product DeleteProduct(Product returnProduct)
+        {
+            return _repo.Delete(returnProduct);
+        }
     }
 }

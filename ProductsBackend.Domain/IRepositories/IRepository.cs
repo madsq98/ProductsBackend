@@ -10,5 +10,6 @@ namespace ProductsBackend.Domain.IRepositories
         public T Add(T obj);
         public T GetOne(int id);
         public T Update(int id, T obj);
+        public T Delete(T obj);
     }
 }
